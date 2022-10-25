@@ -352,7 +352,7 @@ h3 {
   .header__main-wrapper {
     gap: 82px;
     flex-wrap: wrap;
-    margin-top: 40px;
+    margin-top: 80px;
     margin-bottom: 60px;
     justify-content: center;
   }
